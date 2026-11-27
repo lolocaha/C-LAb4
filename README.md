@@ -52,7 +52,14 @@
 Тестирование
 
 Общий список игр: <img width="288" height="33" alt="изображение" src="https://github.com/user-attachments/assets/deded77f-8142-4bdd-ba6c-a2916fda03f8" />
+
+
+
 Список во что играет каждый из студентов: <img width="486" height="57" alt="изображение" src="https://github.com/user-attachments/assets/c7e4194f-451e-42be-8f7f-b507857ebf89" />
+
+
+
+
 Вывод:<img width="231" height="69" alt="изображение" src="https://github.com/user-attachments/assets/5743b7af-a56d-4f80-a7cf-25bef5d56549" />
 
 
@@ -68,6 +75,9 @@
 Буквы, оставшиеся в множестве, не встречаются в тексте. Они выводятся на экран.
 Тестирование
 Входные данные: <img width="653" height="55" alt="изображение" src="https://github.com/user-attachments/assets/e64cb4b2-3cef-49b9-a7a8-1c34f49f769d" />
+
+
+
 
 Вывод: <img width="112" height="96" alt="изображение" src="https://github.com/user-attachments/assets/92c6ca87-86ba-4d57-ac33-5ed7910f8eec" />
 
