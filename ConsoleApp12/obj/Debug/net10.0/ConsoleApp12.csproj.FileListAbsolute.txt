@@ -1,0 +1,15 @@
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.exe
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.deps.json
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.runtimeconfig.json
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.dll
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net10.0\ConsoleApp12.pdb
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.dll
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\refint\ConsoleApp12.dll
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.pdb
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ref\ConsoleApp12.dll
+C:\Users\sanss\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net10.0\ConsoleA.C2A9F6D4.Up2Date
